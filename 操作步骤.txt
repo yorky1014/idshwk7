@@ -1,0 +1,1 @@
+将rand_lsb_get.m、randinterval.m、final.bmp放入同一文件夹，运行rand_lsb_get.m，参数如下：output为final.bmp，len_total=112，key=2001；goalfile格式为txt,名称自定，我设为了yeah.txt。参数可参考附图1。最后输出的内容存在yeah.txt里，结果可参考附图2。
